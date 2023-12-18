@@ -1,0 +1,4 @@
+
+
+crossorigin:
+  client: ${CUSTOMCONNSTR_origins}
